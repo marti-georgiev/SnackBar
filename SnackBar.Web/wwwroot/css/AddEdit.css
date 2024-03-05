@@ -1,0 +1,134 @@
+﻿*,
+::before,
+::after,
+p,
+h1 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title > div > h1 > a {
+    text-decoration: none !important;
+}
+
+body {
+    background-color: #F0ECCF;
+    padding-top: 60px;
+}
+
+p,
+h1,
+#number {
+    color: black;
+}
+
+/* Title section*/
+.title {
+    text-align: center;
+    background-color: #FFB100;
+    width: 100%;
+    max-height: 160px;
+}
+
+.main-title {
+    padding: 2%;
+}
+
+
+
+/* Main Body */
+#main-body {
+    background-color: #efecd1;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#main {
+    background-color: #F0ECCF;
+    height: 100%;
+    width: 100%;
+}
+
+#editSection {
+    background-color: #fcd585;
+    width: 90%;
+    height: 91%;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    position: relative;
+    gap: 20px;
+}
+
+#editSection label {
+    margin-bottom: 3px;
+}
+
+#editSectionLeft,
+#editSectionRight {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 45%;
+}
+
+#descriptionTextarea {
+    max-height: 360px;
+}
+
+#editSectionLeft > div > *,
+#editSectionRight > div > * {
+    display: block;
+}
+
+#editSection > button[type="submit"] {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    font-size: x-large;
+}
+
+#imageInput {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    opacity: 0;
+}
+
+#imageInputBackground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+input#file-upload-button {
+    cursor: pointer;
+}
+
+#imageField > #addEditHeading {
+    opacity: 0;
+    transition: opacity ease-in-out 200ms;
+    pointer-events: none;
+    user-select: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    width: max-content;
+    color: white;
+}
+
+#imageField:hover {
+    background-color: #c1c1c1;
+}
+
+#imageField:hover > #addEditHeading {
+    opacity: 1;
+}

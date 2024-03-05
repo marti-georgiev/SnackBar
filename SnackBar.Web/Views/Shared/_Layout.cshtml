@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SnackBar.Web</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SnackBar.Web.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" type="text/css" href="~/css/navbarFooterStyling.css" />
+
+</head>
+<body>
+    <nav>
+        <div class="navbr">
+            <form id="search-span" asp-action="Index" asp-controller="Home">
+                <button type="submit" class="btn btn-outline-success search-btn">Search</button>
+                <input class="search-input form-control" type="search" placeholder="Search" name = "filter" aria-label="Search">
+            </form>
+
+            <span id="icons-span">
+                @{
+                    if (ViewData["Title"] != "Cart")
+                    {
+                        if (Context.Session.Keys.Contains("administrator"))
+                        {
+                            <form method="post" asp-action="Logout" asp-controller="Admin">
+                                <button class="logout-btn" type="submit">
+                                    <img alt="admin-login" class="navbar-img" src="/Images/logout.png" />
+                                </button>
+                            </form>
+
+                        }
+                        else
+                        {
+                            <a href="#admin-login" class="open-popup-btn" onclick="togglePopup()">
+                                <img alt="admin-login" class="navbar-img" src="/Images/adminLogin.png" />
+                            </a>
+                        }
+                        <a href="#cart" class="open-popup-btn" onclick="togglePopupCart()">
+                            <img alt="cart" class="navbar-img" src="/Images/shopping-cart.png" />
+                        </a>
+                    }
+                }
+            </span>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container-fluid">
+            <h3 class="footer-text"> &copy; 2024 - SnackBar.Web </h3>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        if (window.location.hash == "#admin-login" || window.location.hash == "#add-admin") {
+            togglePopup();
+        }
+
+        function togglePopup() {
+            var popupContainer = document.querySelector("#popupContainer");
+            popupContainer.classList.toggle("active");
+        }
+
+        function togglePopupCart() {
+            
+            const xhr = new XMLHttpRequest()
+            
+            xhr.open('POST', '/Cart/IsCartInSession');
+
+            xhr.onload = () => {
+                if(xhr.status == 200){
+                    
+                    const response = JSON.parse(xhr.responseText)
+                    if(response.show_popup){
+                        console.log('success')
+                        var popupContainer = document.querySelector("#popupContainerCart");
+                        popupContainer.classList.toggle("active");  
+                    }else{
+                        console.log('fail')
+                        window.location.href = "/Cart/Cart"
+                    }
+                }else{
+                    console.log('fail')
+                    window.location.href = "/Cart/Cart"
+                }
+            }
+            
+            xhr.send();
+            
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SnackBar.Infrastructure",
+    "\\SnackBar.Infrastructure\\Data",
+    "\\SnackBar.Infrastructure\\Data\\Migrations",
+    "\\SnackBar.Web",
+    "\\SnackBar.Web\\Controllers",
+    "\\SnackBar.Web\\Views",
+    "\\SnackBar.Web\\Views\\Shared"
+  ],
+  "SelectedNode": "\\SnackBar.Web\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

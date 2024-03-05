@@ -1,0 +1,289 @@
+﻿*, ::before, ::after, p, h1 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F0ECCF;
+    padding-top: 60px;
+}
+
+p, h1, #number {
+    color: black;
+}
+
+/* Title section*/
+.title {
+    text-align: center;
+    background-color: #FFB100;
+    width: 100%;
+    max-height: 160px;
+}
+
+.main-title {
+    padding: 2%;
+}
+
+
+/*Admin buttons*/
+.admin-btns-space {
+    margin: 1% 0;
+}
+
+.scan-btn {
+    margin-left: 3%;
+}
+
+.add-admin-btn {
+    margin-left: 73%;
+}
+
+
+/* Main Body */
+#mian-body {
+    background-color: #F0ECCF;
+}
+
+.main {
+    background-color: #F0ECCF;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+/* Grid Container */
+.grid-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    grid-template-columns: auto auto auto auto;
+    background-color: #F0ECCF;
+    padding: 20px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2%;
+    z-index: 1;
+}
+
+
+
+
+/* Flipping card */
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+    background-color: transparent;
+    width: 400px;
+    height: 500px;
+    border: 5px solid #FFD57E;
+    cursor: pointer;
+    perspective: 1000px;
+    position: relative;
+    display: inline-block;
+    /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card.flipped .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+    background-color: #fff;
+    color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #FFD57E;
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.flip-card-back-bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.edit-btn{
+    position: absolute;
+    scale: 130%;
+    bottom: 2%;
+}
+
+/*Buttons*/
+.shoping-cart {
+    border: none;
+    color: white;
+    cursor: pointer;
+    /* position: absolute; */
+    /* top: 88.5%; */
+    /* right: 23%; */
+    /* display: inline-block; */
+    background-color: white;
+    border-radius: 25%;
+}
+
+.quontity-btn {
+    /* display: inline-block; */
+    /* position: absolute; */
+    /* bottom: 10px; */
+    /* left: 35%; */
+    background-color: white;
+    border: none;
+    border-radius: 20%;
+}
+
+.quontity-btn span {
+    border-right: 1px solid rgb(0,0,0,0.2);
+    border-left: 1px solid rgb(0,0,0,0.2);
+}
+
+.manage-btn {
+    border: none;
+    background-color: white;
+    border-radius: 20%;
+}
+
+.price-quontity-table {
+    border: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    /* grid-column-gap: 0px; */
+    /* grid-row-gap: 0px; */
+    align-items: center;
+}
+
+.text {
+    text-align: left;
+}
+
+.value {
+    text-align: right;
+}
+
+/* PopUp menu*/
+/* Popup container */
+.popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0s linear 0.3s;
+    backdrop-filter: blur(5px);
+}
+
+/* Popup content */
+.popup-content {
+    background-color: #FFD57E;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    height: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 872px) {
+    .popup-content {
+        width: 80vw;
+    }
+}
+
+#popup-content-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 23%;
+    justify-content: space-between;
+}
+
+#popup-input-span {
+    display: flex;
+}
+
+#logInButton {
+    width: 60%;
+}
+
+.close-btn {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+#popup-input {
+    width: auto;
+}
+
+#pop-up-heading {
+    text-align: center;
+    justify-self: end;
+    margin-right: 10px;
+    margin-bottom: 0;
+    /* margin: 0; */
+}
+
+/* Blur the background when the popup is open */
+.popup-container.active {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0s;
+}
+
+.admin-Key {
+    position: absolute;
+    top: 42.5%;
+    left: 35%;
+    cursor: default;
+}
+
+.text {
+    scale: 120%;
+    position: absolute;
+    top: 43%;
+    left: 48%;
+    font-size: 24px;
+}

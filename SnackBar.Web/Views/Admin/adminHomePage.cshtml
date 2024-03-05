@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Admin View";
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/adminHomePage.css" />
+
+@model SnackBar.Core.Models.IndexDataModel;
+@using SnackBar.Infrastructure.Data.Entities;
+
+@{
+    <script src="~/js/Home/try_login.js"></script>
+
+    <div class="main">
+        <section id="title">
+            <div class="title">
+                <h1 class="main-title">
+                    <a href="/Home/Index"><img class="logo" src="/Images/Logo.png" /></a>
+                    Snack Bar
+                </h1>
+            </div>
+        </section>
+
+        <section class="admin-comands">
+            <div class="admin-btns-space">
+                <a type="button" class="btn btn-warning scan-btn" style="background-color: #CAD4B4; border-color: #CAD4B4;">Scan PDF</a>
+                <a type="button" class="btn btn-warning add-product-btn" onclick = "window.location.href = '/Admin/AddEdit'"  style="background-color: #CAD4B4; border-color: #CAD4B4;">Add new product</a>
+                <a href="#add-admin" onclick="togglePopup()" type="button" class="btn btn-warning add-admin-btn open-popup-btn" style="background-color: #CAD4B4; border-color: #CAD4B4;">Add new admin</a>
+            </div>
+        </section>
+
+        <section class="main-body">
+            <div class="grid-container">
+
+
+                @foreach(Product product in Model.products)
+                {
+                    <div class="flip-card grid-item" onclick="this.classList.toggle('flipped')">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front">
+                                <img src="/Images/ProductImages/@product.Image" alt="Avatar"
+                                     style="width:100%;height:100%;">
+                            </div>
+                            <div class="flip-card-back">
+                                <h1>@product.Name</h1>
+                                <p>@product.Description</p>
+                                <div class="price-quontity-table">
+                                    <div class="price"><p>Price:</p> </div>
+                                    <div class="price-value"><p>@product.Price</p></div>
+                                    <div class="quantity"><p>Availability: </p></div>
+                                    <div class="quantity-value"><p>@product.Total</p></div>
+                                </div>
+
+                                <span class="flip-card-back-bottom">
+                                    <form asp-action="AddEdit" asp-controller="Admin" method="post"><input type="hidden" value="@product.Name" name="productToEdit" /> <button type="submit" class="btn btn-warning scan-btn" style="background-color: #CAD4B4; border-color: #CAD4B4;">Edit Product</button></form>
+                                    <form asp-action="DeleteProduct" asp-controller="Admin" method="post"><input type ="hidden" value="@product.Name" name="productName"/><button type="submit" class="btn btn-danger">Delete product</button></form>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                }
+                
+
+            </div>
+        </section>
+
+        <script src = "~/js/new_admin_key.js"></script>
+
+        <div class="popup-container" id="popupContainer">
+            <div class="popup-content">
+                <form id="popup-content-column">
+                    <button type="button" onclick="new_admin_key()" name="button" class="btn btn-outline-success" id="logInButton">Generate admin key</button>
+
+                    <span id="popup-input-span">
+                        <h3 id="pop-up-heading">Admin Key:</h3>
+                        <span id="admin-key-span"></span>
+                    </span>
+                </form>
+
+                <a href="#" class="btn btn-outline-danger close-btn close-btn" onclick="togglePopup()">X</a>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewData["Title"] = "Cart";
+}
+<link rel="stylesheet" type="text/css" href="~/css/cartPage.css" />
+
+@model SnackBar.Core.Models.CartDisplayModel;
+
+@{
+    <script>
+
+        function increment(event) {
+            console.log('incrementing', event)
+            const numberElement = event.target.parentElement.querySelector('span')
+            var currentNumber = parseInt(numberElement.textContent);
+            numberElement.textContent = currentNumber < 9 ? '0' + (currentNumber + 1) : currentNumber + 1;
+            event.stopPropagation();
+        }
+
+        function decrement(event, product) {
+            console.log('decrementing', event)
+            const numberElement = event.target.parentElement.querySelector('span')
+            var currentNumber = parseInt(numberElement.textContent);
+            console.log(currentNumber)
+            if (currentNumber > 0) {
+                numberElement.textContent = currentNumber < 11 ? '0' + (currentNumber - 1) : currentNumber - 1;
+            }
+
+            event.stopPropagation();
+        }
+    </script>
+
+    <div classs="main">
+        <section class="main-body">
+            <div class="grid-container">
+                
+                @foreach(var item in Model.products)
+                {
+                    <div class="grid-item">
+                        <div class="product-img-div">
+                            <a><img class ="product-img" src="~/Images/ProductImages/@item.product.Image" /></a>
+                        </div>
+                        <h1 class="product-title">@item.product.Name</h1>
+                        <p>Price: @item.product.Price</p>                        
+                        <form asp-action="RemoveProduct" asp-controller="Cart" method="post"> <input type = "hidden" name="productName" value="@item.product.Name"> <button type="submit" class="btn btn-outline-danger">Delete Product</button></form>
+
+                        <form asp-action="ChangeProductCount" id="@item.product.Id" asp-controller="Cart" method="post">
+
+                            <script>
+                                document.getElementById("@item.product.Id").addEventListener("submit", function () {
+                                    var spanText = document.getElementById("span_@item.product.Id").textContent;
+
+                                    if (Number(spanText) < 1) {
+                                        spanText = '1'
+                                    }
+
+                                    document.getElementById("span_input_@item.product.Id").value = Number(spanText);
+                                    console.log(document.getElementById("span_input_@item.product.Id").value)
+                                });
+                            </script>
+                            <div class="quantity-btn">
+
+                                <input type="hidden" name="Count" id="span_input_@item.product.Id" value="default mewoererere">
+                                <input type="hidden" name="productName" value="@item.product.Name">
+                                <button type ="button" class="manage-btn minus" onclick="decrement(event)">-</button>
+                                <span style="color: black" id="span_@item.product.Id">@(item.orderedAmount < 10 ? "0" + item.orderedAmount : item.orderedAmount)</span>
+                                <button type="button" class="manage-btn plus" onclick="increment(event)">+</button>
+
+                            </div>
+                            <button class="save-btn btn btn-outline-success" type="submit" >Save</button>
+
+
+                        </form>
+
+                        
+                    </div>
+                }
+
+            </div>
+
+            <div class="cart-options">
+                <div class="d-grid gap-2 col-6 mx-auto">
+                    <form asp-controller="Cart" asp-action="MarkCartAsDone"><button class="btn btn-outline-success" type="submit">Mark Cart As Purchased</button></form>
+                    <form asp-controller="Cart" asp-action="DeleteCart"><button class="btn btn-outline-danger" type="submit">Delete Cart</button></form>
+                </div>
+                <div class="cart-id">Cart Id: <div class="cart-id-box">@Model.Id</div></div>
+                <div class="timer">Session ends at <div class="end-time">@Model.createdWhen.AddMinutes(30)</div></div>
+            </div>
+
+        </section>
+    </div>
+}
+

@@ -1,0 +1,144 @@
+﻿@{
+    ViewData["Title"] = "Snack Bar";
+}
+<link rel="stylesheet" type="text/css" href="~/css/homePage.css" />
+
+@model SnackBar.Core.Models.IndexDataModel;
+@using SnackBar.Infrastructure.Data.Entities;
+
+@{
+    <script>
+
+        function increment(event) {
+            const numberElement = event.target.parentElement.querySelector('span')
+            var currentNumber = parseInt(numberElement.textContent);
+            numberElement.textContent = currentNumber < 9 ? '0' + (currentNumber + 1) : currentNumber + 1;
+            event.stopPropagation();
+        }
+
+        function decrement(event, product) {
+            const numberElement = event.target.parentElement.querySelector('span')
+            var currentNumber = parseInt(numberElement.textContent);
+            if (currentNumber > 0) {
+                numberElement.textContent = currentNumber < 11 ? '0' + (currentNumber - 1) : currentNumber - 1;
+            }
+            event.stopPropagation();
+        }
+
+    </script>
+
+    <div class="main">
+        <section id="title">
+            <div class="title">
+                <h1 class="main-title">
+                    <a href="/Home/Index"> <img class="logo" src="/Images/Logo.png" /></a>                   
+                    Snack Bar
+                </h1>
+            </div>
+        </section>
+
+        <section class="main-body">
+            <div class="grid-container">
+
+                @if (Model != null)
+                {
+                    foreach (Product product in Model.products)
+                    {
+                        @if(product.Total > 0)
+                        {
+                            <div class="flip-card grid-item" onclick="this.classList.toggle('flipped')">
+                                <div class="flip-card-inner">
+                                    <div class="flip-card-front">
+                                        <img src="/Images/ProductImages/@product.Image" alt="Item"
+                                             style="width:100%;height:100%;">
+                                    </div>
+                                    <div class="flip-card-back">
+                                        <h1>@product.Name</h1>
+                                        <p>@product.Description</p>
+                                        <div class="price-quontity-table">
+                                            <div class="price"><p>Price:</p> </div>
+                                            <div class="price-value"><p>@product.Price</p></div>
+                                            <div class="quantity"><p>Availability: </p></div>
+                                            <div class="quantity-value"><p>@product.Total</p></div>
+                                        </div>
+
+
+                                        <form class="flip-card-back-bottom" id="@product.Id" asp-action="AddProduct" asp-controller="Cart">
+
+                                            <script>
+                                                document.getElementById("@product.Id").addEventListener("submit", function () {
+                                                    var spanText = document.getElementById("span_@product.Id").textContent;
+                                                    
+                                                    if(Number(spanText) < 1){
+                                                        spanText = '1'
+                                                    }
+
+                                                    document.getElementById("span_input_@product.Id").value = spanText;
+                                                });
+                                            </script>
+                                            <div class="quontity-btn">
+                                                <input type="hidden" name="Count" id="span_input_@product.Id">
+                                                <input type="hidden" name="Name" value="@product.Name">
+                                                <button class="manage-btn minus" type="button" onclick=" decrement(event)">-</button>
+                                                <span id="span_@product.Id" style="color: black">00</span>
+                                                <button class="manage-btn plus" type="button" onclick="increment(event)">+</button>
+                                            </div>
+                                            <button type="submit" class="shoping-cart">
+                                                <!--Add product to cart script needed-->
+                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                     height="1em" viewBox="0 0 576 512">
+                                                    <path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96zM252 160c0 11 9 20 20 20h44v44c0 11 9 20 20 20s20-9 20-20V180h44c11 0 20-9 20-20s-9-20-20-20H356V96c0-11-9-20-20-20s-20 9-20 20v44H272c-11 0-20 9-20 20z" />
+                                                </svg>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        }                        
+                    }
+                }
+                else
+                {
+                    <p>No product with this name</p>
+                }
+
+            </div>
+        </section>
+
+        <div class="popup-container" id="popupContainer">
+            <div class="popup-content">
+            <form asp-action="TryAdminLogin" asp-controller="Home" id="popup-content-column">
+                    <span id="popup-input-span">
+                        <h3 id="pop-up-heading">Admin Key:</h3>
+                        <input id="popup-input" class="form-control" type="password" name="value" placeholder="Enter Admin Key">
+                    </span>
+
+                    <button type="submit" name="button" class="btn btn-outline-success" id="logInButton">Log In</button>
+                </form>
+
+                <a href="#" class="btn btn-outline-danger close-btn close-btn" onclick="togglePopup()">X</a>
+            </div>
+        </div>
+
+        <div class="popup-container" id="popupContainerCart">
+            <div class="popup-content">
+                <form asp-controller="Cart" asp-action="CartRedirectTry" method="post">
+                    <span id="popup-input-span">
+                        <div class="popup-text">
+                            <h2 id="pop-up-heading-cart">The cart is empty!</h2>
+                            <h4 id="pop-up-text">You have a cart Id? Enter here: </h4>
+
+                            <input id="popup-input-cart" class="form-control" type="text" name="cartId" placeholder="Enter Cart Id">
+                        </div>
+
+                    </span>
+                    <button type="submit" name="button" class="btn btn-outline-success" id="enterButton">Enter</button>
+
+                </form>
+
+                <a href="#" class="btn btn-outline-danger close-btn close-btn" onclick="togglePopupCart()">X</a>
+            </div>
+        </div>
+
+    </div>
+}

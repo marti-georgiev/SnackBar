@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marto\\Desktop\\SnackBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|c:\\users\\marto\\desktop\\snackbar\\snackbar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.infrastructure\\data\\migrations\\20230710091327_addmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|solutionrelative:snackbar.infrastructure\\data\\migrations\\20230710091327_addmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.infrastructure\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|solutionrelative:snackbar.infrastructure\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.infrastructure\\data\\snackbardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}|SnackBar.Infrastructure\\SnackBar.Infrastructure.csproj|solutionrelative:snackbar.infrastructure\\data\\snackbardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|C:\\Users\\marto\\Desktop\\SnackBar\\snackbar.web\\snackbar.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3A39E6E-C368-4EC9-8C84-9EEF30382CDE}|SnackBar.Web\\SnackBar.Web.csproj|solutionrelative:snackbar.web\\snackbar.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:27:24.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:47:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:47:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:46:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:46:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:46:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:27:54.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:27:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SnackBar.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:27:39.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SnackBar.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAkwBQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:03:36.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20230710091327_Addmin.cs",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\Migrations\\20230710091327_Addmin.cs",
+              "RelativeDocumentMoniker": "SnackBar.Infrastructure\\Data\\Migrations\\20230710091327_Addmin.cs",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\Migrations\\20230710091327_Addmin.cs",
+              "RelativeToolTip": "SnackBar.Infrastructure\\Data\\Migrations\\20230710091327_Addmin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:44:41.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "SnackBar.Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "SnackBar.Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAABgAAAAAMjMzMzP7vzEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:44:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SnackBar.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\appsettings.json",
+              "RelativeToolTip": "SnackBar.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T10:44:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SnackBar.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\appsettings.Development.json",
+              "RelativeToolTip": "SnackBar.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T10:44:41.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SnackBar.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\Program.cs",
+              "RelativeToolTip": "SnackBar.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:44:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SnackBarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\SnackBarDbContext.cs",
+              "RelativeDocumentMoniker": "SnackBar.Infrastructure\\Data\\SnackBarDbContext.cs",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Infrastructure\\Data\\SnackBarDbContext.cs",
+              "RelativeToolTip": "SnackBar.Infrastructure\\Data\\SnackBarDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:44:41.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SnackBar.Web",
+              "DocumentMoniker": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\SnackBar.Web.csproj",
+              "RelativeDocumentMoniker": "SnackBar.Web\\SnackBar.Web.csproj",
+              "ToolTip": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Web\\SnackBar.Web.csproj",
+              "RelativeToolTip": "SnackBar.Web\\SnackBar.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-03-05T10:44:41.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
