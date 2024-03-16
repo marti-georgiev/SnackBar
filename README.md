@@ -47,13 +47,6 @@
   </ul>
 </details>
 
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-  </ul>
-</details>
-
 
 
 ### :gear: Installation
