@@ -1,23 +1,21 @@
 ## :pencil: Project Description
-The proposed software aims to provide a user-friendly interface for both administrators and guests, allowing them to interact with the product inventory effectively. The system will enable administrators to manage the product catalog by adding new items, updating their details, and monitoring the available quantities. Additionally, administrators have the privilege to grant access to other administrators, ensuring proper management of the software.
+Предложеният софтуер има за цел да предостави удобен за потребителя интерфейс както за администраторите, така и за гостите, което им позволява да взаимодействат ефективно с продуктовия инвентар. Системата ще позволи на администраторите да управляват продуктовия каталог чрез добавяне на нови артикули, актуализиране на техните данни и следене на наличните количества. Освен това администраторите имат привилегията да предоставят достъп на други администратори, като гарантират правилно управление на софтуера.
 
-On the other hand, guests will have a simplified view of the software, enabling them to browse through the product list, view details such as price and quantity, and reserve items for a limited time of 30 minutes. This feature allows guests to secure their desired products before making a purchase.
+От друга страна, гостите ще имат опростен изглед на софтуера, който им позволява да преглеждат списъка с продукти, да преглеждат подробности като цена и количество и да резервират артикули за ограничено време от 30 минути. Тази функция позволява на гостите да осигурят желаните от тях продукти, преди да направят покупка.
 
-The software will support multiple devices, including computers and tablets, to cater to various user preferences and provide flexibility in accessing the application.
+Софтуерът ще поддържа множество устройства, включително компютри и таблети, за да се погрижи за различните потребителски предпочитания и да осигури гъвкавост при достъпа до приложението.
 
-The main goals of this project are:
+Основните цели на този проект са:
 
-Develop a user-friendly software application for product visualization and reservation.
-Implement a secure login system with distinct user roles (administrator and guest).
-Provide administrators with the ability to manage the product catalog, including adding, updating, and modifying products and user access.
-Enable guests to view product information, check availability, and reserve products for a limited time.
-Ensure compatibility and responsiveness of the software on different devices, such as computers and tablets.
-By creating this software, we aim to enhance the user experience and streamline the product management process, ultimately improving efficiency and customer satisfaction.
+Разработете удобно софтуерно приложение за визуализация и резервация на продукти.
+Внедрете сигурна система за влизане с различни потребителски роли (администратор и гост).
+Осигурете на администраторите възможността да управляват продуктовия каталог, включително добавяне, актуализиране и модифициране на продукти и потребителски достъп.
+Дайте възможност на гостите да преглеждат информация за продукта, да проверяват наличността и да резервират продукти за ограничен период от време.
+Осигурете съвместимост и отзивчивост на софтуера на различни устройства, като компютри и таблети.
+Създавайки този софтуер, ние се стремим да подобрим потребителското изживяване и да рационализираме процеса на управление на продукта, като в крайна сметка подобрим ефективността и удовлетвореността на клиентите.
 
 ## :floppy_disk: Database Diagram
 
-
-![image](https://github.com/NemetschekSpeedItUp/2023_School_Remote/assets/89745007/20fda145-43ea-4219-aca8-f9859b44a85d)
 
 
 
@@ -43,7 +41,7 @@ By creating this software, we aim to enhance the user experience and streamline 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.sqlite.org/">SQL Lite</a></li>
      
   </ul>
 </details>
