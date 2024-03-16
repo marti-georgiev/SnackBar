@@ -35,6 +35,8 @@
   <ul>
     <li>ASP.Net Core</li>
     <li>Entity Framework Core</li>
+    <li>Web (ASP.NET Core MVC)</li>
+    <
   </ul>
 </details>
 
@@ -56,3 +58,4 @@
 
 
 ### :gear: Installation
+
