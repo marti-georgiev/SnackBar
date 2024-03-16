@@ -35,7 +35,7 @@
   <ul>
     <li>ASP.Net Core</li>
     <li>Entity Framework Core</li>
-    <li>Web (ASP.NET Core MVC)</li>
+    <li>ASP.Net MVC</li>
   </ul>
 </details>
 
