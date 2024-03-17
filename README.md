@@ -53,3 +53,4 @@
 
 ### :gear: Installation
 
+- <a href="https://dotnet.microsoft.com/en-us/download/dotnet/7.0" style="color: purple;">.NET 7</a>
