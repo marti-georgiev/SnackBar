@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XzuJvg7Ji+Ma4BiE8+1Die/bdfatRSjL0fucrIwJ/jkvfcLHhXCoHlBH6Wb7rU2RNLnzPSP6ip2S+PhinBdxbw==",
+  "dgSpecHash": "RCrrwHl8ocepKQ3d1Q5mMoVUJXHPeAw4EjzEcL9XPUm3sSNmVBF4ABqW9HZek+8U96mu1rfbIG0UiPcAqEPZGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marto\\Desktop\\SnackBar\\SnackBar.Core\\SnackBar.Core.csproj",
+  "projectFilePath": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Core\\SnackBar.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marto\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\marto\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

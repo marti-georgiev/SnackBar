@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnackBar.Core", "SnackBar.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnackBar.Infrastructure", "SnackBar.Infrastructure\SnackBar.Infrastructure.csproj", "{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{FAFE65CD-2EF4-405B-964C-AC10B7BE4709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{291EF9E4-DAD8-46A6-AABF-E67DEB0B21C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFE65CD-2EF4-405B-964C-AC10B7BE4709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFE65CD-2EF4-405B-964C-AC10B7BE4709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFE65CD-2EF4-405B-964C-AC10B7BE4709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFE65CD-2EF4-405B-964C-AC10B7BE4709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

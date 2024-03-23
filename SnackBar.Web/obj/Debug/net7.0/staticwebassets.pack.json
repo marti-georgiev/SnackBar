@@ -1,475 +1,419 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SnackBar.Web.bundle.scp.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SnackBar.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\SnackBar.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\Logo.png",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\Logo.png",
       "PackagePath": "staticwebassets\\Images\\Logo.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\0da57578-80d5-4dd0-988b-f1ad8d7d6ee4.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\0da57578-80d5-4dd0-988b-f1ad8d7d6ee4.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\053d7081-124c-41f1-80e9-675b8e2d0b54.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\053d7081-124c-41f1-80e9-675b8e2d0b54.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\10c66662-9bf8-4128-9e96-87fff35e876b.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\10c66662-9bf8-4128-9e96-87fff35e876b.jpeg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\086720f6-9d11-4c59-b1e9-b23e0023f399.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\086720f6-9d11-4c59-b1e9-b23e0023f399.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\11f3f77b-1e02-4364-81d7-f6fe438a7cd3.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\11f3f77b-1e02-4364-81d7-f6fe438a7cd3.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\0b2969b1-ceaa-4c3b-824c-e33e6dc43204.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\0b2969b1-ceaa-4c3b-824c-e33e6dc43204.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\14130569-1b28-4c4e-ac09-10610abed998.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\14130569-1b28-4c4e-ac09-10610abed998.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\10fa1ce3-ef54-454f-9a54-0a3799ac490c.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\10fa1ce3-ef54-454f-9a54-0a3799ac490c.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\1a8361eb-17e3-4960-8d13-746e4babf8c5.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\1a8361eb-17e3-4960-8d13-746e4babf8c5.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\1b5b8e85-1caa-4c02-bc5f-d36eafa53a7c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\1b5b8e85-1caa-4c02-bc5f-d36eafa53a7c.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\212caab6-13ea-4995-970b-688be9b9665e.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\212caab6-13ea-4995-970b-688be9b9665e.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\1fcdccc9-67ae-49df-9e4e-5077ece19da2.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\1fcdccc9-67ae-49df-9e4e-5077ece19da2.jpg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\2abc5c03-3f8f-44f0-9f00-a73b24e454b1.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\2abc5c03-3f8f-44f0-9f00-a73b24e454b1.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\3aaea6b8-e8bd-4021-b94c-f66ff800a67a.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\3aaea6b8-e8bd-4021-b94c-f66ff800a67a.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\2d8ca6b3-52fd-4aba-a634-e8288804545d.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\2d8ca6b3-52fd-4aba-a634-e8288804545d.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\49048b99-c9c7-4f25-91d5-c8015cf581b3.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\49048b99-c9c7-4f25-91d5-c8015cf581b3.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\2f3daa76-89e9-4766-bc53-4e276a658536.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\2f3daa76-89e9-4766-bc53-4e276a658536.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\4faf0363-1503-42d5-9782-fb29effff8ed.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\4faf0363-1503-42d5-9782-fb29effff8ed.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\304f9d73-97e7-4801-9202-9af2b6c78587.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\304f9d73-97e7-4801-9202-9af2b6c78587.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\584f1317-e8b9-4ad5-aebb-bc3392896802.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\584f1317-e8b9-4ad5-aebb-bc3392896802.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\30ebb0c3-18bb-470f-a0d8-c0f9fb34df25.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\30ebb0c3-18bb-470f-a0d8-c0f9fb34df25.jpeg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\58a90bad-03de-4355-8234-01f3a00dd15d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\58a90bad-03de-4355-8234-01f3a00dd15d.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\369f5254-9271-4596-b91b-5be5eaa4e869.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\369f5254-9271-4596-b91b-5be5eaa4e869.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\5f5aadd4-ab38-4add-aa61-7fb10106456d.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\5f5aadd4-ab38-4add-aa61-7fb10106456d.jpg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\3efadbd6-5f09-4b42-9d00-d1262ea5a53c.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\3efadbd6-5f09-4b42-9d00-d1262ea5a53c.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\61fa8c56-8225-49ec-ba84-92b5fba29501.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\61fa8c56-8225-49ec-ba84-92b5fba29501.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\480639e8-b581-458b-8171-1be802058f36.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\480639e8-b581-458b-8171-1be802058f36.jpeg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\7727c51b-5bbc-44a9-82fb-6ccabe44a1f2.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\7727c51b-5bbc-44a9-82fb-6ccabe44a1f2.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\4884d9a9-7eac-4b63-b78d-45c51f54e9a0.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\4884d9a9-7eac-4b63-b78d-45c51f54e9a0.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\7aaad2bd-15b7-4837-a602-c92dad671c2e.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\7aaad2bd-15b7-4837-a602-c92dad671c2e.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\4a7e79c8-9ad8-4b1a-bc44-7e2d5742327f.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\4a7e79c8-9ad8-4b1a-bc44-7e2d5742327f.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\7ae2164a-c780-426d-8ec9-b8b1aea1cedf.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\7ae2164a-c780-426d-8ec9-b8b1aea1cedf.jpg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\4f6ee789-ed1b-45c6-9e8b-89df42c3dc4e.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\4f6ee789-ed1b-45c6-9e8b-89df42c3dc4e.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\906ec7c4-6e95-4168-9ab5-db9eb6db2030.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\906ec7c4-6e95-4168-9ab5-db9eb6db2030.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\5742a3c7-88a3-4617-adef-79f05a59f586.png",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\5742a3c7-88a3-4617-adef-79f05a59f586.png"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\993a48a5-4863-48f9-baea-f59a4898a5e3.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\993a48a5-4863-48f9-baea-f59a4898a5e3.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\5ee435ea-9326-4675-aaf4-52f8fe897ce8.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\5ee435ea-9326-4675-aaf4-52f8fe897ce8.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\9b4dc4f3-2fbe-43f5-b510-e21faa9849c4.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\9b4dc4f3-2fbe-43f5-b510-e21faa9849c4.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\6191285b-c6a6-45b9-b14d-96566c4e6b28.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\6191285b-c6a6-45b9-b14d-96566c4e6b28.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\9e49a380-68fb-4a6d-b6a8-810cf5b61753.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\9e49a380-68fb-4a6d-b6a8-810cf5b61753.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\63a26390-7d8c-47c9-bee3-c4c4c9375913.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\63a26390-7d8c-47c9-bee3-c4c4c9375913.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\9e6c79fd-c9fc-487a-9b31-b936a8db36e5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\9e6c79fd-c9fc-487a-9b31-b936a8db36e5.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\6d9c41df-2f75-4151-8ec8-45f594b18964.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\6d9c41df-2f75-4151-8ec8-45f594b18964.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a17b6566-6752-46bc-a207-79ab700d526e.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\a17b6566-6752-46bc-a207-79ab700d526e.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\70e9c217-bd65-4895-9c56-0ec1f3357dbc.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\70e9c217-bd65-4895-9c56-0ec1f3357dbc.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a207ef88-6878-4401-862a-db3b92122d7b.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\a207ef88-6878-4401-862a-db3b92122d7b.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\724473b1-6323-42b0-9ba4-310059a7470b.png",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\724473b1-6323-42b0-9ba4-310059a7470b.png"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a519607c-f861-40d9-8347-4faddabc486f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\a519607c-f861-40d9-8347-4faddabc486f.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\805ffed4-8065-4abe-870c-b80b8019932b.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\805ffed4-8065-4abe-870c-b80b8019932b.jpeg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a68004c4-a99f-49b1-b420-e6caad797089.webp",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\a68004c4-a99f-49b1-b420-e6caad797089.webp"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\898db7e0-b5b3-418b-8427-8a1d6d88d41b.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\898db7e0-b5b3-418b-8427-8a1d6d88d41b.webp"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a85f275c-bb6f-41e0-a62a-684fa3cd589c.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\a85f275c-bb6f-41e0-a62a-684fa3cd589c.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\8b8e3687-7cfb-4950-87cc-4555fb0fb207.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\8b8e3687-7cfb-4950-87cc-4555fb0fb207.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\ba37b496-126c-4429-a6a0-61fd4f0b1993.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\ba37b496-126c-4429-a6a0-61fd4f0b1993.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\96cd0a79-cff6-4f77-b02d-46bb569169d8.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\96cd0a79-cff6-4f77-b02d-46bb569169d8.jpeg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\c130b721-b67c-45a6-9829-414f0c385bfc.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\c130b721-b67c-45a6-9829-414f0c385bfc.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\9ae3da03-3103-4fa3-aea3-2e6d3cd7c9b8.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\9ae3da03-3103-4fa3-aea3-2e6d3cd7c9b8.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\c72f2768-e8db-4465-bd6e-23c6265c8086.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\c72f2768-e8db-4465-bd6e-23c6265c8086.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a1fcc653-6ed7-488e-9a98-d01343938cf7.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\a1fcc653-6ed7-488e-9a98-d01343938cf7.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\da97fc74-8b15-4fc7-a735-717e09ffe3cc.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\da97fc74-8b15-4fc7-a735-717e09ffe3cc.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\a5ffa226-a2b6-4d76-bdab-092d442a82e1.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\a5ffa226-a2b6-4d76-bdab-092d442a82e1.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\eeee2c50-d58e-4de7-80e0-fcf3a592f136.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\eeee2c50-d58e-4de7-80e0-fcf3a592f136.jpeg"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\ae114745-b81a-486f-b191-c7be3fcc1f3c.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\ae114745-b81a-486f-b191-c7be3fcc1f3c.jpg"
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\fd640bb3-4b4a-439a-87dd-bcb86942b9d2.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\fd640bb3-4b4a-439a-87dd-bcb86942b9d2.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\be5f8180-253a-4406-8b69-3a0893407fd4.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\be5f8180-253a-4406-8b69-3a0893407fd4.webp"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\bf1ecab3-54de-4da9-9444-50e3fb2f980b.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\bf1ecab3-54de-4da9-9444-50e3fb2f980b.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\c1798af9-f801-47fc-b83f-d2dad7838bb5.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\c1798af9-f801-47fc-b83f-d2dad7838bb5.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\c969db2b-e266-4643-9349-cdcf85a3901c.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\c969db2b-e266-4643-9349-cdcf85a3901c.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\d64aff82-9f69-42ac-a003-1cf57e08a01e.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\d64aff82-9f69-42ac-a003-1cf57e08a01e.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\d6eaa1ec-864f-41d8-b978-67f2d605dc5f.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\d6eaa1ec-864f-41d8-b978-67f2d605dc5f.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\dcd85a0b-230e-4a04-bf8f-4d172a6d9fd2.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\dcd85a0b-230e-4a04-bf8f-4d172a6d9fd2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\e1c8bfc4-9adc-4f46-a6fb-366d3ab09e57.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\e1c8bfc4-9adc-4f46-a6fb-366d3ab09e57.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\ea9f09dd-00b7-4725-83fe-4a278fb8126e.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\ea9f09dd-00b7-4725-83fe-4a278fb8126e.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\eb3f39d1-cb88-48ad-b86b-70d66bb33527.webp",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\eb3f39d1-cb88-48ad-b86b-70d66bb33527.webp"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\f4583ca8-bdd4-43cd-bace-3a5f2d6e39c0.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\f4583ca8-bdd4-43cd-bace-3a5f2d6e39c0.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\fc3f2c5a-fe11-49bb-bfea-6f140ca8a89d.jpeg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\fc3f2c5a-fe11-49bb-bfea-6f140ca8a89d.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\ProductImages\\white.jpg",
-      "PackagePath": "staticwebassets\\Images\\ProductImages\\white.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\adminLogIn.png",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\adminLogIn.png",
       "PackagePath": "staticwebassets\\Images\\adminLogIn.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\logout.png",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\logout.png",
       "PackagePath": "staticwebassets\\Images\\logout.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\shopping-cart.png",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\Images\\shopping-cart.png",
       "PackagePath": "staticwebassets\\Images\\shopping-cart.png"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\Images\\snickers.jpg",
-      "PackagePath": "staticwebassets\\Images\\snickers.jpg"
-    },
-    {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\AddEdit.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\AddEdit.css",
       "PackagePath": "staticwebassets\\css\\AddEdit.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\adminHomePage.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\adminHomePage.css",
       "PackagePath": "staticwebassets\\css\\adminHomePage.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\cartPage.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\cartPage.css",
       "PackagePath": "staticwebassets\\css\\cartPage.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\homePage.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\homePage.css",
       "PackagePath": "staticwebassets\\css\\homePage.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\navbarFooterStyling.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\navbarFooterStyling.css",
       "PackagePath": "staticwebassets\\css\\navbarFooterStyling.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\js\\new_admin_key.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\js\\new_admin_key.js",
       "PackagePath": "staticwebassets\\js\\new_admin_key.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\marto\\Desktop\\New folder\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\marto\\Documents\\GitHub\\SnackBar\\SnackBar.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

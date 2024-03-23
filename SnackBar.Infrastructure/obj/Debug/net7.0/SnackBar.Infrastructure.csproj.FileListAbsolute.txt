@@ -22,3 +22,16 @@ C:\Users\marto\Desktop\New folder\SnackBar.Infrastructure\obj\Debug\net7.0\Snack
 C:\Users\marto\Desktop\New folder\SnackBar.Infrastructure\obj\Debug\net7.0\refint\SnackBar.Infrastructure.dll
 C:\Users\marto\Desktop\New folder\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.pdb
 C:\Users\marto\Desktop\New folder\SnackBar.Infrastructure\obj\Debug\net7.0\ref\SnackBar.Infrastructure.dll
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\bin\Debug\net7.0\SnackBar.Infrastructure.deps.json
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\bin\Debug\net7.0\SnackBar.Infrastructure.dll
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\bin\Debug\net7.0\SnackBar.Infrastructure.pdb
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.AssemblyInfo.cs
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.sourcelink.json
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.dll
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\refint\SnackBar.Infrastructure.dll
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\SnackBar.Infrastructure.pdb
+C:\Users\marto\Documents\GitHub\SnackBar\SnackBar.Infrastructure\obj\Debug\net7.0\ref\SnackBar.Infrastructure.dll

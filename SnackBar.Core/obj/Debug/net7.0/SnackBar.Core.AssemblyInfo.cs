@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnackBar.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8915ad8327089f3bfbde292b567a37859acfae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnackBar.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnackBar.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
